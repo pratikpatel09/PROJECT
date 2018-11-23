@@ -1,0 +1,6 @@
+<== TECHNICAL SPECIFICAIONS ==>
+Supported OS : Windows, Linux, Mac
+Minimum RAM : 1GB RAM
+Hard Drive Space : 15GB
+Processor : Quantum Core or Above versions
+Supported Browsers : Firefox, Chrome, IE4
